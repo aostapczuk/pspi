@@ -2,11 +2,11 @@
 
 Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
-    1. [Nazwisko, Imię](link do swojej strony w domenie github.io):
-        - [README.md](link), [README.asc](link)
-        - [Tytuł pokazu slajdów](link)
-        - [Moje notatki do wykładów z programowania](link)
-        - [Moja aplikacja Meteor](link)
+    1. [Nazwisko, Imię](link do swojej strony w domenie github.io)
+      - [README.md](link), [README.asc](link)
+      - [Tytuł pokazu slajdów](link)
+      - [Moje notatki do wykładów z programowania](link)
+      - [Moja aplikacja Meteor](link)
 
 ### Linki
 
@@ -77,6 +77,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 4\. CSS3
 
 - [Bootstrap](http://getbootstrap.com)
+  - [Less](http://lesscss.org) (LessCSS czy Less.js)
 - [Foundation](http://foundation.zurb.com)
 - [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
