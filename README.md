@@ -6,6 +6,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
         - [README.md](link), [README.asc](link)
         - [Tytuł pokazu slajdów](link)
         - [Moje notatki do wykładów z programowania](link)
+        - [Moja aplikacja Meteor](link)
 
 ### Linki
 
@@ -18,12 +19,19 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
   - [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
 1. AsciiDoc:
   - [Asciidoctor](http://asciidoctor.org)
-    - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
+  - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
   - [HubPress](https://github.com/HubPress/hubpress.io)
 1. Slajdy:
   - [Reveal.js](http://lab.hakim.se/reveal-js/) oraz [Slides](http://slid.es/)
+1. [Meteor Framework](https://www.meteor.com/)
+  - David Turnbull.
+    [Your First Meteor Application](http://meteortips.com/book/) –
+    a complete beginner’s guide to the Meteor JavaScript Framework
+  - [Discover Meteor](http://book.discovermeteor.com/) – książka
+    ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
-Użyteczne narzędzia:
+
+### Użyteczne narzędzia
 
 - [Atom](https://atom.io) – a hackable text editor for the 21st Century
   - packages: [language-asciidoc](https://atom.io/packages/language-asciidoc),
@@ -32,14 +40,15 @@ Użyteczne narzędzia:
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 - [GitHub Desktop](http://windows.github.com/)
 
-Zrób to sam:
+### Zrób to sam
 
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [CodePen](http://codepen.io/) – front end developer playground & code editor in the browser
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) – color wheel and schemes
+- [Reply.it](http://repl.it/languages/JavaScript)
 
 
-### Rozkład zajęć
+## Rozkład zajęć
 
 1\. Git:
 
@@ -67,6 +76,8 @@ Zrób to sam:
 
 4\. CSS3
 
+- [Bootstrap](http://getbootstrap.com)
+- [Foundation](http://foundation.zurb.com)
 - [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [CSS Diner](http://flukeout.github.io/) – where we feast on CSS Selectors!
@@ -79,31 +90,25 @@ Zrób to sam:
   a Web Components Gallery for modern web applications
 - [Web Components](https://chrome.google.com/webstore/detail/web-components/filcobblndaenakhejinpjdblekilpgn) – Chrome Extension
 
-### JavaScript
+6\. JavaScript
+
+- Marijn Haverbeke. [Eloquent JavaScript](http://eloquentjavascript.net/) –
+  A Modern Introduction to Programming
+
+
+### JavaScript Extras
 
 Firefox extensions:
 - [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/):
-  * [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
+- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
 
 [Node.js](http://nodejs.org/):
 ```console
 alias node="env NODE_NO_READLINE=1 rlwrap node"
 ```
 
-- [reply.it](http://repl.it/languages/JavaScript)
-- Marijn Haverbeke. [Eloquent JavaScript](http://eloquentjavascript.net/) –
-  A Modern Introduction to Programming
 - Kyle Simpson. [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - John Resig.
   [Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/) – funkcje w JavaScript
-
-
-### [Meteor Framework](https://www.meteor.com/)
-
-- David Turnbull.
-  [Your First Meteor Application](http://meteortips.com/book/) –
-  a complete beginner’s guide to the Meteor JavaScript Framework
-- [Discover Meteor](http://book.discovermeteor.com/) – książka
-  * [polskie tłumaczenie](http://pl.discovermeteor.com/)
