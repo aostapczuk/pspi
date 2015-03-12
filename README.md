@@ -17,7 +17,6 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
   - [Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/)
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
-  - [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
 1. AsciiDoc:
   - [Asciidoctor](http://asciidoctor.org)
   - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
