@@ -59,7 +59,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 2\. HTML & CSS
 
-- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
+- [Thinkful HTML](https://github.com/mjhea0/thinkful-html) –
   wprowadzenie do HTML i CSS
 - [Learn CSS Layout](http://learnlayout.com/)
 
