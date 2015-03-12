@@ -100,7 +100,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 ### JavaScript Extras
 
 Firefox extensions:
-- [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/):
+- [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 - [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
 
 [Node.js](http://nodejs.org/):
