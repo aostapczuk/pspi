@@ -12,6 +12,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 1. Git:
   - [ProGit Book, v2](http://git-scm.com/book/en/v2)
+  - [Using pull requests (on GitHub)](https://help.github.com/articles/using-pull-requests/)
 1. Markdown na GitHub:
   - [Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/)
