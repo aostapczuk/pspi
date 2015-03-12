@@ -71,11 +71,13 @@ Zrób to sam:
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [CSS Diner](http://flukeout.github.io/) – where we feast on CSS Selectors!
 
-5\. Web Components
+5\. [Web Components](http://webcomponents.org)
 
+- [Polymer project](https://www.polymer-project.org/0.5/) (v0.5.5)
+- [Polymer repository](https://github.com/Polymer/polymer)
 - [Custom Elements](http://customelements.io/) –
   a Web Components Gallery for modern web applications
-
+- [Web Components](https://chrome.google.com/webstore/detail/web-components/filcobblndaenakhejinpjdblekilpgn) – Chrome Extension
 
 ### JavaScript
 
