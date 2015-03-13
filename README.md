@@ -60,7 +60,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 2\. HTML & CSS
 
 - [HTML 5 Outliner](https://gsnedders.html5.org/outliner/);
-  [Chrome extensions](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
+  [Chrome extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 - [Thinkful HTML](https://github.com/mjhea0/thinkful-html) –
   wprowadzenie do HTML i CSS
 - [Learn CSS Layout](http://learnlayout.com/)
