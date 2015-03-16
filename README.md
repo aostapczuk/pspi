@@ -10,6 +10,9 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 ### Linki
 
+1. Sigma:
+  - [Konfiguracja](https://inf.ug.edu.pl/konfiguracja); u dołu strony
+  jest informacja dla studentów – loginy, adresy majlowe, stron domowych
 1. Git:
   - [ProGit Book, v2](http://git-scm.com/book/en/v2)
   - [Using pull requests (on GitHub)](https://help.github.com/articles/using-pull-requests/)
