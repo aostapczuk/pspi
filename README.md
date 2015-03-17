@@ -8,6 +8,18 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
       - [Moje notatki do wykładów z programowania](link)
       - [Moja aplikacja Meteor](link)
 
+1. Erdanowski, Tomasz
+1. Gisko, Alicja
+1. Jacewicz, Małgorzata
+1. Nowak, Łukasz
+1. Ostapczuk, Andrzej
+1. Paździerska, Iwona
+1. Selke, Marcin
+1. Skuza, Łukasz
+1. Sudomir-Gordon, Milena
+1. Mokrzycki, Rafał
+
+
 ### Linki
 
 1. Sigma:
