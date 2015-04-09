@@ -25,6 +25,11 @@ http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Qui
 http://asciidoctor.org/docs/user-manual[Asciidoctor User Manual]::
   Full manual under development!
 
+Firefox:
+
+* https://addons.mozilla.org/en-US/firefox/addon/asciidoctorjs-live-preview/[Asciidoctor.js Live Preview] adds-on
+
+
 == Images
 
 An example of the hyperlinked image with caption.
