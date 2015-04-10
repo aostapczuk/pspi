@@ -12,9 +12,9 @@ $ asciidoctor hello_world.asc
 :numbered!:
 == AsciiDoctor v. AsciiDoc
 
-About http://asciidoc.org[AsciiDoc].
+:+1: About http://asciidoc.org[AsciiDoc].
 
-About AsciiDoctor.
+:trophy: About AsciiDoctor:
 [horizontal]
 http://asciidoctor.org[AsciiDoctor]::
   AsciiDoctor home page
