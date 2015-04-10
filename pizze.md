@@ -2,6 +2,8 @@
 
 ## Pieczeń
 
+![Pieczeń](pieczen.jpg)
+
 Składniki:
 
 - schab bez kości - 1 kg
@@ -15,7 +17,7 @@ Składniki:
 - wino czerwone - 1 kieliszka
 - tymianek - trochę
 
-PRzygotowanie:
+Przygotowanie:
 
 1. Na średnim ogniu rozpuszczamy masło na patelni. Dodajemy posiekaną cebulę, marchewkę,  seler i podsmażamy lekko przez 6 minut.
 1. Następnie dodajemy na patelnię posiekany czosnek, podsmażamy przez kolejnych kilka minut. Przekładamy wszystko do naczynia żaroodpornego.
