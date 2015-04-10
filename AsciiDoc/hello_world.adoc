@@ -14,7 +14,7 @@ $ asciidoctor hello_world.asc
 
 :+1: About http://asciidoc.org[AsciiDoc].
 
-:trophy: About AsciiDoctor:
+About AsciiDoctor :trophy: :
 [horizontal]
 http://asciidoctor.org[AsciiDoctor]::
   AsciiDoctor home page
