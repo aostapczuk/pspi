@@ -2,7 +2,7 @@
 
 ## Pieczeń
 
-![Pieczeń](pieczen.jpg)
+![Pieczeń _/=\_](pieczen.jpg)
 
 Składniki:
 
