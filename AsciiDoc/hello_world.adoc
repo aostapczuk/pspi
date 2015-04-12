@@ -35,16 +35,17 @@ Firefox:
 An example of the hyperlinked image with caption.
 
 ----
-[[img-czerwone-wierchy]]
+[[img-vipera-berus]]
 .żmija zygzakowata (*vipera berus*)
 image::vipera berus[Vipera berus, 600]
 ----
 
 The result:
 
-[[img-czerwone-wierchy]]
-.Widok z Kasprowego Wierchu na Czerwone Wierchy
-image::P1020943.JPG[Czerwone Wierchy, 600]
+[[img-vipera-berus]]
+.żmija zygzakowata (*vipera berus*)
+image::vipera berus[Vipera berus, 600]
+
 
 == Source Code
 
