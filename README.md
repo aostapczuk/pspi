@@ -5,8 +5,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     1. [Nazwisko, Imię](link do swojej strony w domenie github.io)
       - [README.md](link), [README.asc](link)
       - [Tytuł pokazu slajdów](link)
-      - [Moje notatki do wykładów z programowania](link)
-      - [Moja aplikacja Meteor](link)
+      - [Moje notatki z...](link)
 
 1. Erdanowski, Tomasz
 1. Gisko, Alicja
@@ -25,9 +24,11 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Sigma:
   - [Konfiguracja](https://inf.ug.edu.pl/konfiguracja); u dołu strony
   jest informacja dla studentów – loginy, adresy majlowe, stron domowych
+  - [Bash](http://wbzyl.inf.ug.edu.pl/sp/unix-commands)
 1. Git:
   - [ProGit Book, v2](http://git-scm.com/book/en/v2)
   - [Using pull requests (on GitHub)](https://help.github.com/articles/using-pull-requests/)
+  - [Konfiguracja](http://wbzyl.inf.ug.edu.pl/sp/git)
 1. Markdown na GitHub:
   - [Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/)
