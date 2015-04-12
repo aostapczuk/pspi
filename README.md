@@ -55,9 +55,12 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
   - packages: [language-asciidoc](https://atom.io/packages/language-asciidoc),
   [asciidoc-preview](https://atom.io/packages/asciidoc-preview)
   - themes: seti-syntax, seti-ui, monokai, monokai-inverted
+  - Jekyll: [jekyll-asciidoc](https://github.com/asciidoctor/jekyll-asciidoc),
+  [jekyll-asciiDoc-quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart)
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 - [GitHub Desktop](http://windows.github.com/)
+
 
 ### Zrób to sam
 
