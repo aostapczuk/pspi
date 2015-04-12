@@ -54,7 +54,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
   - [Atom Flight Manual](https://atom.io/docs/latest/) – the latest version
   - packages: [language-asciidoc](https://atom.io/packages/language-asciidoc),
   [asciidoc-preview](https://atom.io/packages/asciidoc-preview)
-  - themes: seti, monokai, monokai-inverted
+  - themes: seti-syntax, seti-ui, monokai, monokai-inverted
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 - [GitHub Desktop](http://windows.github.com/)
