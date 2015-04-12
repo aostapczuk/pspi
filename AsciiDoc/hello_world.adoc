@@ -36,15 +36,15 @@ An example of the hyperlinked image with caption.
 
 ----
 [[img-vipera-berus]]
-.żmija zygzakowata (*vipera berus*)
-image::vipera berus[Vipera berus, 600]
+.żmija zygzakowata (_vipera berus_)
+image::vipera berus.jpg[Vipera berus, 600]
 ----
 
 The result:
 
 [[img-vipera-berus]]
-.żmija zygzakowata (*vipera berus*)
-image::vipera berus[Vipera berus, 600]
+.żmija zygzakowata (_vipera berus_)
+image::vipera berus.jpg[Vipera berus, 600]
 
 
 == Source Code
