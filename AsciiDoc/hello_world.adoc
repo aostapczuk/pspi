@@ -43,7 +43,7 @@ image::vipera berus.jpg[Vipera berus, 600]
 The result:
 
 [[img-vipera-berus]]
-.Vipera berus
+.Żmija zygzakowata (_Vipera berus_)
 image::vipera_berus.jpg[Vipera berus, 600]
 
 
