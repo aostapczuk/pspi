@@ -73,3 +73,4 @@ DEPENDENCIES
   asciidoctor (= 1.5.2)
   jekyll (= 2.5.3)
   jekyll-asciidoc (= 1.0.0)
+  pygments.rb (= 0.6.3)

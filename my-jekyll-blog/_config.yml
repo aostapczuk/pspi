@@ -10,8 +10,13 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-markdown: kramdown
+asciidoctor:
+  attributes:
+    - hardbreaks!
+    - source-highlighter=pygments
+#     - pygments-css=style
 
-kramdown:
-  input: GFM
+# asciidoctor:
+#   attributes:
+#     - hardbreaks!
+#     - source-highlighter=coderay
