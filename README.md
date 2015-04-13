@@ -68,7 +68,28 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 - [CodePen](http://codepen.io/) – front end developer playground & code editor in the browser
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) – color wheel and schemes
 - [Reply.it](http://repl.it/languages/JavaScript)
+- Zmieniamy wielkość fontu w widoku „tree”, wklejając w pliku
+  *~/.atom/styles.less* ten kod:
 
+```less
+@tree-view-font-size: 14px;
+@tree-view-line-height: 28px;
+
+.tree-view {
+  font-size: @tree-view-font-size;
+
+  .list-group li:not(.list-nested-item),
+  .list-tree li:not(.list-nested-item),
+  .list-group li.list-nested-item > .list-item,
+  .list-tree li.list-nested-item > .list-item {
+    line-height: @tree-view-line-height;
+  }
+  .list-group .selected::before,
+  .list-tree .selected::before {
+    height: @tree-view-line-height;
+  }
+}
+```
 
 ## Rozkład zajęć
 
