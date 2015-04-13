@@ -4,6 +4,7 @@ Włodek Bzyl <ja@home.pl>
 :stem: latexmath
 :source-highlighter: pygments
 :sourcedir: src
+:asciidoctor: http://asciidoctor.org
 
 Render this document to HTML with:
 [source,console]
@@ -12,11 +13,11 @@ $ asciidoctor hello_world.asc
 :numbered!:
 == AsciiDoctor v. AsciiDoc
 
-:+1: About http://asciidoc.org[AsciiDoc].
+:+1: About {asciidoctor}[AsciiDoc].
 
 About AsciiDoctor :trophy: :
 [horizontal]
-http://asciidoctor.org[AsciiDoctor]::
+{asciidoctor}[AsciiDoctor]::
   AsciiDoctor home page
 http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]::
   Basics
