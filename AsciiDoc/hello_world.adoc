@@ -1,5 +1,6 @@
 = Introduction to AsciiDoc
 Włodek Bzyl <ja@home.pl>
+:toc: right
 :icons: font
 :stem: latexmath
 :source-highlighter: pygments
@@ -18,6 +19,7 @@ $ asciidoctor hello_world.asc
 :writerguide: http://asciidoctor.org/docs/asciidoc-writers-guide/
 :quickref: http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 :manual: http://asciidoctor.org/docs/user-manual
+:ppn: https://github.com/wbzyl/ppn/wiki
 
 == AsciiDoctor v. AsciiDoc
 
@@ -134,8 +136,16 @@ include+++::+++tracks.csv[]
 
 == Math Section
 
+An inline formula: stem:[\sqrt{4} = 2]
+
 A block formula:
 [stem]
 ++++
-2+2 = 4 \quad \sqrt{4} = 2 \quad e^{\pi i} = -1
+\begin{align}
+\biggl( \int_{-\infty}^\infty e^{-x^2}\,dx\biggr)^2 &= \int_{-\infty}^\infty \int_{-\infty}^\infty e^{-x^2+y^2}\,dx\,dy \cr
+  &= \int_0^{2\pi} \int_0^\infty e^{-r^2}r\,dr\,d\theta \cr
+  &= \pi
+\end{align}
 ++++
+
+For more math, see {ppn}[PPN Wiki].
