@@ -79,10 +79,10 @@ To get callouts and admonition icons add this line to the header:
 ----
 ====
 
-How to read code from a file:
-[source,asciidoc]
+How to read code from a file? Try this:
+[source,asciidocm, subs="macros"]
 ----
-include::{sourcedir}/mail.rb[]
+include+++::+++{sourcedir}/mail.rb[]
 ----
 
 [NOTE]
@@ -92,7 +92,7 @@ Remember to set the `sourcedir` attribute in the header.
 
 The result:
 
-[source,asciidoc]
+[source,ruby]
 ----
 include::{sourcedir}/mail.rb[]
 ----
@@ -124,11 +124,11 @@ The Lumineers,Ho Hey,Folk Rock
 |===
 
 or read CSV data from a file:
-[source,asciidoc]
+[source,asciidoc,  subs="macros"]
 ----
 [format="csv", options="header"]
 |===
-include::tracks.csv[]
+include+++::+++tracks.csv[]
 |===
 ----
 
