@@ -1,4 +1,4 @@
-## Jekyll AsciiDoc installation guide
+# Jekyll AsciiDoc installation guide
 
 Na początek musimy zainstalować *Ruby Version Manager* (RVM)
 oraz język programowania https://www.ruby-lang.org/pl[Ruby].
@@ -27,3 +27,12 @@ Następnie wykonujemy to polecenie:
 ----
 bundle install --path=.gems
 ----
+
+## AsciiDoctor
+
+. http://asciidoctor.org/docs/produce-custom-themes-using-asciidoctor-stylesheet-factory[Produce Custom Themes Using the Asciidoctor Stylesheet Factory]
+. https://github.com/asciidoctor/asciidoctor-stylesheet-factory[Asciidoctor stylesheet factory]
+
+## Font
+
+. http://fortawesome.github.io/Font-Awesome[Font Awesome]

@@ -4,12 +4,19 @@ title:  "Welcome to Jekyll and AsciiDoc!"
 date:   2015-04-12 12:00:00
 categories: jekyll asciidoc ascidoctor mathjax
 ---
-= Sample Page
+## How To Guide
 :icons: font
 :stem: latexmath
 
 This is a sample page composed in AsciiDoc.
-Jekyll converts it to HTML using http://asciidoctor.org[Asciidoctor].
+
+Jekyll converts articles written in Markdown to HTML.
+How to change from the default notation
+to AsciiDoc is described in the docs of the
+https://github.com/asciidoctor/jekyll-asciidoc[Jekyll plugin].
+
+
+## General info
 
 You’ll find this post in your `_posts` directory.
 Go ahead and edit it and re-build the site to see your changes.
@@ -22,17 +29,22 @@ the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary
 front matter. Take a look at the source for this post to get an idea
 about how it works.
 
+
+## Code snippets
+
 Jekyll also offers powerful support for code snippets:
 [source,ruby]
 ----
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+require 'asciidoctor' # <1>
+html = Asciidoctor.convert_file('sample.adoc',
+  :header_footer => true) # <2>
+puts html
 ----
+<1> imports the library
+<2> reads, parses and renders the file
 
-== Images
+
+## Images
 
 An example of the hyperlinked image with caption.
 
@@ -41,7 +53,7 @@ An example of the hyperlinked image with caption.
 image::/images/vipera_berus.jpg[Vipera berus, 600]
 
 
-== Math Section
+## Math Section
 
 A block formula:
 
@@ -50,7 +62,7 @@ A block formula:
 2+2 = 4 \quad \sqrt{4} = 2 \quad e^{\pi i} = -1
 ++++
 
-== FontAwesome
+## FontAwesome
 
 http://fortawesome.github.io/Font-Awesome[Font Awesome]
 gives you scalable vector icons that can instantly be customized
@@ -65,11 +77,13 @@ To get callouts and admonition icons add this line to the header:
 ----
 ====
 
-Check out the [Jekyll docs][jekyll] for more info on how to get
-the most out of Jekyll. File all bugs/feature requests at
-[Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on
-[Jekyll’s dedicated Help repository][jekyll-help].
+## AsciiDoc
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Check out the http://jekyllrb.com[Jekyll docs] for more info on how to get
+the most out of Jekyll.
+
+Check out the http://asciidoctor.org[AsciiDoctor] docs to learn about
+AsciiDoc notation:
+
+- http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]
+- http://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Syntax Quick Reference]
