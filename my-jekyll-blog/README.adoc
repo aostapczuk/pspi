@@ -1,0 +1,5 @@
+## Installation Guide
+
+. RVM
+. Install jekyll gem
+. Generate *MyJekyllBlog*
