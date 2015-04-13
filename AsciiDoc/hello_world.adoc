@@ -3,27 +3,35 @@ Włodek Bzyl <ja@home.pl>
 :icons: font
 :stem: latexmath
 :source-highlighter: pygments
+
+:imagesdir: images
+:numbered!:
 :sourcedir: src
-:asciidoctor: http://asciidoctor.org
 
 Render this document to HTML with:
 [source,console]
 $ asciidoctor hello_world.asc
 
-:numbered!:
+:asciidoc: http://www.methods.co.nz/asciidoc/
+:version: 1.5.2
+:doctor: http://asciidoctor.org/
+:writerguide: http://asciidoctor.org/docs/asciidoc-writers-guide/
+:quickref: http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+:manual: http://asciidoctor.org/docs/user-manual
+
 == AsciiDoctor v. AsciiDoc
 
-:+1: About {asciidoctor}[AsciiDoc].
+About {asciidoc}[AsciiDoc] :+1:
 
 About AsciiDoctor :trophy: :
 [horizontal]
-{asciidoctor}[AsciiDoctor]::
+{doctor}[AsciiDoctor] (v{version})::
   AsciiDoctor home page
-http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]::
+{writerguide}[AsciiDoc Writer’s Guide]::
   Basics
-http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference]::
+{quickref}[AsciiDoc Syntax Quick Reference]::
   Quick intro by examples
-http://asciidoctor.org/docs/user-manual[Asciidoctor User Manual]::
+{manual}[Asciidoctor User Manual]::
   Full manual under development!
 
 Firefox:
@@ -75,13 +83,12 @@ How to read code from a file:
 
 [subs="macros"]
 ----
-+++[+++source,ruby+++]+++
 include+++::+++{sourcedir}/mail.rb[]
 ----
 
 [NOTE]
 ====
-Remember to set the `sourcedir` variable in the header.
+Remember to set the `sourcedir` attribute in the header.
 ====
 
 The result:
