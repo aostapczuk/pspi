@@ -8,6 +8,8 @@ categories: jekyll asciidoc ascidoctor mathjax
 :icons: font
 :stem: latexmath
 
+:ppn: https://github.com/wbzyl/ppn/wiki
+
 This is a sample page composed in AsciiDoc.
 
 Jekyll converts articles written in Markdown to HTML.

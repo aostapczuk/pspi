@@ -82,7 +82,7 @@ To get callouts and admonition icons add this line to the header:
 ====
 
 How to read code from a file? Try this:
-[source,asciidocm, subs="macros"]
+[source,asciidoc, subs="macros"]
 ----
 include+++::+++{sourcedir}/mail.rb[]
 ----
