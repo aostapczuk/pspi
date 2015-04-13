@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'asciidoctor'
+gem 'jekyll', '= 2.5.3'
+gem 'asciidoctor', '= 1.5.2'
+gem 'jekyll-asciidoc', '= 1.0.0'

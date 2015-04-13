@@ -1,5 +1,27 @@
-## Installation Guide
+## Jekyll AsciiDoc installation Guide
 
-. RVM
-. Install jekyll gem
-. Generate *MyJekyllBlog*
+Na początek musimy zainstalować *Ruby Version Manager* (RVM)
+oraz język programowania https://www.ruby-lang.org/pl[Ruby].
+Jak to zrobić jest opisane na stronie https://rvm.io[RVM].
+
+Dalej postępujemy tak jak to opisano na stronie
+http://jekyllrb.com[Jekyll &bull; Simple, blog-aware, static sites].
+
+Domyślną notacją do wpisywania artykułów jest Markdown.
+Aby przejść na notację AsciiDoc postępujemy tak jak to opisano na stronie
+wtyczki https://github.com/asciidoctor/jekyll-asciidoc[jekyll-asciidoc].
+
+Na początek tworzymy plik link:Gemfile[Gemfile] w którym wpisujemy:
+[source,ruby]
+----
+source 'https://rubygems.org'
+gem 'jekyll', '= 2.5.3'
+gem 'asciidoctor', '= 1.5.2'
+gem 'jekyll-asciidoc', '= 1.0.0''
+----
+
+Następnie wykonujemy to polecenie:
+[source,console]
+----
+bundle install --path=.gems
+----
