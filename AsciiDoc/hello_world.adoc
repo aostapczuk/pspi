@@ -80,10 +80,9 @@ To get callouts and admonition icons add this line to the header:
 ====
 
 How to read code from a file:
-
-[subs="macros"]
+[source,asciidoc]
 ----
-include+++::+++{sourcedir}/mail.rb[]
+include::{sourcedir}/mail.rb[]
 ----
 
 [NOTE]
@@ -93,7 +92,7 @@ Remember to set the `sourcedir` attribute in the header.
 
 The result:
 
-[source,ruby]
+[source,asciidoc]
 ----
 include::{sourcedir}/mail.rb[]
 ----
@@ -103,8 +102,7 @@ include::{sourcedir}/mail.rb[]
 
 [cols="2*", options="header"]
 |===
-| Name
-| Group
+| Name | Group
 
 |Firefox
 |Web Browser
@@ -125,11 +123,18 @@ Baauer,Harlem Shake,Hip Hop
 The Lumineers,Ho Hey,Folk Rock
 |===
 
+or read CSV data from a file:
+[source,asciidoc]
+----
+[format="csv", options="header"]
+|===
+include::tracks.csv[]
+|===
+----
 
 == Math Section
 
 A block formula:
-
 [stem]
 ++++
 2+2 = 4 \quad \sqrt{4} = 2 \quad e^{\pi i} = -1
