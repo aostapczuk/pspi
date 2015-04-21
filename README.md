@@ -91,6 +91,13 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
   }
 }
 ```
+Przedefinowujemy w pliku *keymap.json* (Settings>Keybindings) 
+skrót do Command Palette:
+
+```yaml
+'.platform-linux':
+  'cmd-shift-p': 'command-palette:toggle'
+```
 
 ## Rozkład zajęć
 
