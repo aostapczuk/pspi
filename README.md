@@ -128,7 +128,8 @@ skrót do Command Palette:
   * [Why Websites Are White](http://www.kaikkonendesign.fi/why-websites-are-white/)
 - [Materialize](http://materializecss.com) –
   a modern responsive front-end framework based on
-  [material design](http://www.google.com/design/spec/material-design/introduction.html)
+  [material design](http://www.google.com/design/spec/material-design/introduction.html);
+  zob. też [Make Material Design Websites with the Materialize CSS Framework](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
 
 4\. CSS3
 
