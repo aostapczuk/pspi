@@ -91,7 +91,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
   }
 }
 ```
-Przedefinowujemy w pliku *keymap.json* (Settings>Keybindings) 
+Przedefinowujemy w pliku *keymap.json* (Settings>Keybindings)
 skrót do Command Palette:
 
 ```yaml
@@ -126,6 +126,9 @@ skrót do Command Palette:
 - Tommi Kaikkonen:
   * [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/)
   * [Why Websites Are White](http://www.kaikkonendesign.fi/why-websites-are-white/)
+- [Materialize](http://materializecss.com) –
+  a modern responsive front-end framework based on
+  [material design](http://www.google.com/design/spec/material-design/introduction.html)
 
 4\. CSS3
 
