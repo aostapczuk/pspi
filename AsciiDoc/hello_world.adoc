@@ -4,6 +4,7 @@ Włodek Bzyl <ja@home.pl>
 :icons: font
 :stem: latexmath
 :source-highlighter: pygments
+:experimental: true
 
 :imagesdir: images
 :numbered!:
@@ -141,6 +142,29 @@ or read CSV data from a file:
 include+++::+++tracks.csv[]
 |===
 ----
+
+Keyboard shortcuts (inline kbd macro):
+
+|===
+|Shortcut |Purpose
+
+|kbd:[F11]
+|Toggle fullscreen
+
+|kbd:[Ctrl+T]
+|Open a new tab
+
+|kbd:[Ctrl+Shift+N]
+|New incognito window
+
+|kbd:[Ctrl + +]
+|Increase zoom
+|===
+
+[WARNING]
+You must set the _experimental_ attribute in the document header
+to enable these macros.
+
 
 == Math Section
 
