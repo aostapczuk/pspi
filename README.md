@@ -99,6 +99,18 @@ skrót do Command Palette:
   'cmd-shift-p': 'command-palette:toggle'
 ```
 
+Do pliku *~/.atom/snippets.cson* dopisujemy dwa snippety:
+
+```yaml
+'.source.asciidoc':
+  'Relative link':
+    'prefix': 'link'
+    'body': 'link:$1[$2]'
+  'Code block with title and syntax highlighting':
+    'prefix': 'ch'
+    'body': '[source,$1]\n----\n$0\n----'
+```
+
 ## Rozkład zajęć
 
 1\. Git:

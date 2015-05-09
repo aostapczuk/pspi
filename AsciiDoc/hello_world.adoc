@@ -94,11 +94,19 @@ Remember to set the `sourcedir` attribute in the header.
 
 The result:
 
-[source,ruby]
+[source,asciidoctor]
 ----
 include::{sourcedir}/mail.rb[]
 ----
 
+or include file, possibly dangerous operation, given URL:
+
+[source,asciidoctor,subs=macros]
+----
+:allow-uri-read: true
+:asciidoctor-source: https://raw.githubusercontent.com/asciidoctor/asciidoctor/master
+include+++::+++{asciidoctor-source}/README.adoc[]
+----
 
 == Tables
 
