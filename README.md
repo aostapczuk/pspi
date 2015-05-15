@@ -126,6 +126,7 @@ Do pliku *~/.atom/snippets.cson* dopisujemy dwa snippety:
   [Chrome extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 - [Thinkful HTML](https://github.com/mjhea0/thinkful-html) –
   wprowadzenie do HTML i CSS
+  - [Web Design/HTML Challenges](http://en.wikiversity.org/wiki/Web_Design/HTML_Challenges)
 - [Learn CSS Layout](http://learnlayout.com/)
 
 3\. HTML5
