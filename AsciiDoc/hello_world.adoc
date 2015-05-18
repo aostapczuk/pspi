@@ -145,20 +145,24 @@ include+++::+++tracks.csv[]
 
 Keyboard shortcuts (inline kbd macro):
 
+.Atom keyboard shortcuts
 |===
 |Shortcut |Purpose
 
-|kbd:[F11]
-|Toggle fullscreen
+|kbd:[cmd+shift+p]
+|toggle command palette
 
-|kbd:[Ctrl+T]
-|Open a new tab
+|kbd:[cmd+k+arrow]
+|open new pane
 
-|kbd:[Ctrl+Shift+N]
-|New incognito window
+|kbd:[ctrl+m]
+|goto matching bracket
+
+|kbd:[cmd+k] kbd:[cmd+u]
+|Upper Case
 
 |kbd:[Ctrl + +]
-|Increase zoom
+|increase zoom
 |===
 
 [WARNING]
