@@ -15,6 +15,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Nowicka, Beata
 1. Ostapczuk, Andrzej
 1. [Selke, Marcin](http://mselke.github.io/)
+    - [README.md](https://github.com/mselke/notatki/blob/master/readme.md)
 1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. Sudomir-Gordon, Milena
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
