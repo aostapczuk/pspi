@@ -19,6 +19,9 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. Sudomir-Gordon, Milena
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
+    - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git), [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
+    - [Zawody wspinaczkowe mojego synka](http://slides.com/rmokrzycki/deck)
+    - [Moje notatki z programowania](https://github.com/rmokrzycki/notatki-z-programowania.git)
 2. [Snarski, Lech](http://lsnarski.github.io/)
 
 
