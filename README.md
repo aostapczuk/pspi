@@ -22,7 +22,10 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git), [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
     - [Zawody wspinaczkowe mojego synka](http://slides.com/rmokrzycki/deck)
     - [Moje notatki z programowania](https://github.com/rmokrzycki/notatki-z-programowania.git)
-2. [Snarski, Lech](http://lsnarski.github.io/)
+1. [Snarski, Lech](http://lsnarski.github.io/)
+    - [README.md](https://github.com/lsnarski/Technologie/blob/master/README.md), [README.asc](https://github.com/lsnarski/Technologie/blob/master/README.asc)
+    - [Brudna Świnka](http://slides.com/lsnarski1/deck#/)
+    - [Moje notatki z pracy na githubie przez Ubuntu](https://github.com/lsnarski/Technologie/blob/master/git_lin_base.md)
 
 
 ### Linki
