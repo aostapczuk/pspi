@@ -25,7 +25,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. [Sudomir-Gordon, Milena](http://msudomir.github.io/index.html)
    - [slides](http://slides.com/milenasudomir/deck#/)
-   - [README.md(https://github.com/msudomir/test/blob/master/README.md)
+   - [README.md](https://github.com/msudomir/test/blob/master/README.md)
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
     - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git),      
       [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
