@@ -21,6 +21,11 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     - [Wspomnienia z Salsy](http://slides.com/lukasznowak-1/deck/fullscreen#/)
     - [Moje notatki z Jezyki programowania](https://github.com/NowakL/Moje-notatki-z-J-zyk-w-programowania)
 1. [Nowicka, Beata](http://bnowicka.github.io/)
+    - [README.md](https://github.com/bnowicka/notatki1/blob/master/README.md)
+    - [Slajdy](http://bnowicka.github.io/slides.html) 
+    - [O mnie](http://bnowicka.github.io/o)
+    - [Techniki Judo](http://bnowicka.github.io/tech)
+    - [Stopnie Judo](http://bnowicka.github.io/stopnie)
 1. Ostapczuk, Andrzej
 1. [Selke, Marcin](http://mselke.github.io/)
     - [README.md](https://github.com/mselke/notatki/blob/master/readme.md), 
