@@ -8,7 +8,10 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
       - [Moje notatki z...](link)
 
 1. [Erdanowski, Tomasz](http://terdanowski.github.io/)
-1. Gisko, Alicja
+1. [Gisko, Alicja](http://agisko.github.io/)
+  - [Markdown doc](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
+  - [ASCII doc](https://github.com/agisko/agisko.github.io/blob/master/zadanie.adoc)
+  - [Podroz do Kataru](https://slides.com/alicja1981)
 1. Jacewicz, Małgorzata
 1. Łuksza, Natalia
 1. [Nowak, Łukasz](http://nowakl.github.io/)
@@ -24,8 +27,8 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     - [Moje notatki z programowania](https://github.com/mselke/notatki/blob/master/zadania.md)
 1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. [Sudomir-Gordon, Milena](http://msudomir.github.io/index.html)
-   - [slides](http://slides.com/milenasudomir/deck#/)
-   - [README.md](https://github.com/msudomir/test/blob/master/README.md)
+2. [slides](http://slides.com/milenasudomir/deck#/)
+3. README.md (https://github.com/msudomir/test/blob/master/README.md)
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
     - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git),      
       [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
