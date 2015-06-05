@@ -15,16 +15,20 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. [Nowicka, Beata](http://bnowicka.github.io/)
 1. Ostapczuk, Andrzej
 1. [Selke, Marcin](http://mselke.github.io/)
-    - [README.md](https://github.com/mselke/notatki/blob/master/readme.md), [README.adoc](https://github.com/mselke/notatki/blob/master/readme.adoc)
+    - [README.md](https://github.com/mselke/notatki/blob/master/readme.md), 
+      [README.adoc](https://github.com/mselke/notatki/blob/master/readme.adoc)
     - [Robotyka dla najmlodszych](http://slides.com/mselke/deck/)
+    - [Moje notatki z programowania](https://github.com/mselke/notatki/blob/master/zadania.md)
 1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. Sudomir-Gordon, Milena
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
-    - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git), [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
+    - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git),      
+      [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
     - [Zawody wspinaczkowe mojego synka](http://slides.com/rmokrzycki/deck)
     - [Moje notatki z programowania](https://github.com/rmokrzycki/notatki-z-programowania.git)
 1. [Snarski, Lech](http://lsnarski.github.io/)
-    - [README.md](https://github.com/lsnarski/Technologie/blob/master/README.md), [README.asc](https://github.com/lsnarski/Technologie/blob/master/README.asc)
+    - [README.md](https://github.com/lsnarski/Technologie/blob/master/README.md), 
+      [README.asc](https://github.com/lsnarski/Technologie/blob/master/README.asc)
     - [Brudna Świnka](http://slides.com/lsnarski1/deck#/)
     - [Moje notatki z pracy na githubie przez Ubuntu](https://github.com/lsnarski/Technologie/blob/master/git_lin_base.md)
 
